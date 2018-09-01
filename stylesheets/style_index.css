@@ -24,3 +24,9 @@ h2 {
     color: white
     
 }
+.current-tag{
+    border: 5px;
+    border-width: 5px;
+    border-color: darkcyan;
+    border-style: solid;
+}
